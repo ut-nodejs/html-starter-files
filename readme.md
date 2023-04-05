@@ -6,7 +6,7 @@ This repository holds starter HTML, CSS, JS, and IMG files for each Capstone Pro
 ## Capstone 1 / 캡스톤 1
 
 .
-|___public
+|___[`public`](./capstone-1/public/)
 | &nbsp; |___css
 | &nbsp; | &nbsp; |___bootstrap.css
 | &nbsp; | &nbsp; |___confetti_cuisine.css
@@ -16,7 +16,7 @@ This repository holds starter HTML, CSS, JS, and IMG files for each Capstone Pro
 | &nbsp; | &nbsp; |___product.jpg
 | &nbsp; |___js
 | &nbsp; | &nbsp; |___confettiCuisine.js
-|___views
+|___[`views`](./capstone-1/views/)
 | &nbsp; |___contact.html
 | &nbsp; |___courses.html
 | &nbsp; |___error.html

@@ -5,6 +5,18 @@ This repository holds starter HTML, CSS, JS, and IMG files for each Capstone Pro
 
 ## Capstone 1 / 캡스톤 1
 
+
+.  
+|____ [`lesson_8`](./lesson_8/)  
+| &nbsp; |____ first_express_project_0  
+| &nbsp; | &nbsp; |____ main.js  
+| &nbsp; | &nbsp; |____ package.json  
+| &nbsp; |____ first_express_project_1  
+| &nbsp; | &nbsp; |____ main.js  
+| &nbsp; | &nbsp; |____ package.json  
+|____ readme.adoc  
+
+
 .
 |___[`public`](./capstone-1/public/)
 | &nbsp; |___css
